@@ -20,9 +20,9 @@ import math
 A4_W_MM, A4_H_MM = 297.0, 210.0
 
 # Default location: Vilnius 
-# Coordinates source: ~54.71, 25.29
-VILNIUS_LAT_DEG = 54.71
-VILNIUS_LON_DEG = 25.29
+# Coordinates source: ~52.1, 5.23
+VILNIUS_LAT_DEG = 52.1
+VILNIUS_LON_DEG = 2.23
 # Standard time requirement:
 # Lithuania standard time is EET (UTC+02:00). For zone time the reference meridian is 30°E.
 # This dial is configured to SHOW STANDARD TIME (EET) year-round (no DST applied).
